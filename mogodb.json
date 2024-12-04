@@ -1,0 +1,90 @@
+[
+{
+
+    "name":"Room 1",
+    "imageUrls":[
+      "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/2467285/pexels-photo-2467285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "rentPerDay":1500,
+    "type":"Delux",
+    "maxCount":3,
+    "phoneNumber":94237484324,
+    "currentBooking":[
+
+    ],
+    "descriptions":"Make the most important event of your life more joyful and memorable by capturing the best moments designed spaces and fruit-laden orchards. Offer comes with a complimentary stay in our luxurious suite."
+},
+{
+
+  "name":"Room 2",
+  "imageUrls":[
+    "https://images.pexels.com/photos/97083/pexels-photo-97083.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "https://images.pexels.com/photos/3659683/pexels-photo-3659683.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "https://images.pexels.com/photos/279746/pexels-photo-279746.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  ],
+  "rentPerDay":1500,
+  "type":"Delux",
+  "maxcount":3,
+  "phoneNumber":94237484324,
+  "currentBooking":[
+
+  ],
+  "descriptions":"Make the most important event of your life more joyful and memorable by capturing the best moments designed spaces and fruit-laden orchards. Offer comes with a complimentary stay in our luxurious suite."
+},
+{
+
+  "name":"Room 3",
+  "imageUrls":[
+    "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/2467285/pexels-photo-2467285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  ],
+  "rentPerDay":1500,
+  "type":"non-Delux",
+  "maxcount":3,
+  "phoneNumber":94237484324,
+  "currentBooking":[
+
+  ],
+  "descriptions":"Make the most important event of your life more joyful and memorable by capturing the best moments designed spaces and fruit-laden orchards. Offer comes with a complimentary stay in our luxurious suite."
+},
+{
+
+  "name":"Room 4",
+  "imageUrls":[
+    "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/2467285/pexels-photo-2467285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  
+  ],
+  "rentPerDay":1500,
+  "type":"Delux",
+  "maxcount":3,
+  "phoneNumber":94237484324,
+  "currentBooking":[
+
+  ],
+  "descriptions":"Make the most important event of your life more joyful and memorable by capturing the best moments designed spaces and fruit-laden orchards. Offer comes with a complimentary stay in our luxurious suite."
+},
+{
+
+  "name":"Room 5",
+  "imageUrls":[
+    "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/2467285/pexels-photo-2467285.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+   
+  ],
+  "rentPerDay":5000,
+  "type":"non-Delux",
+  "maxcount":6,
+  "phoneNumber":94237484324,
+  "currentBooking":[
+
+  ],
+  "descriptions":"Make the most important event of your life more joyful and memorable by capturing the best moments designed spaces and fruit-laden orchards. Offer comes with a complimentary stay in our luxurious suite."
+}
+
+]
